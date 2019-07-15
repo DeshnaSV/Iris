@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(242, 247, 253);
+
+}
+h6{
+    color: aliceblue;
+    font-size: 14px;
+    font-family: "Poiret One"
+
+}
+
+#head{
+    padding-top: 80px;
+    background-color: #1e0d66  ;
+    margin: auto;
+    /* display: flex; */
+    /* align-content: middle; */
+    
+
+
+}
+#title{
+    font-family: "Poiret One"; 
+    font-size: 40px; 
+    color: #F2E53B ;
+    text-align: center;
+
+
+} 
+#vis1{
+    width: 800px;
+    height: 800px;
+    margin: auto;  
+    align-content: center;
+}
+#vis2{
+    width: 800px;
+    height: 800px;
+    margin: auto;  
+    align-content: center;
+}
